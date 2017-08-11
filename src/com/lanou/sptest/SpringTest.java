@@ -12,6 +12,10 @@ public class SpringTest {
 	@Test
 	public void myTest(){
 		
+		if(1==1){
+			System.out.println("这不废话吗?");
+		}	
+		
 		// 1.不使用spring下的对象创建
 //		Car car = new Car();
 //		car.setName("小黄");
