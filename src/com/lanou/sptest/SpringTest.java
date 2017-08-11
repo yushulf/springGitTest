@@ -14,6 +14,8 @@ public class SpringTest {
 		
 		if(1==1){
 			System.out.println("这不废话吗?");
+		}else{
+			System.out.println("能到这吗?");
 		}	
 		
 		// 1.不使用spring下的对象创建
